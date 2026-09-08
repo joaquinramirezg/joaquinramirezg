@@ -1,10 +1,10 @@
 # Hi, I'm Joaquin Ramirez
 
-Machine learning engineer with three years' experience shipping GenAI systems that carry business outcomes. I lead development of the AI copilot and agentic platform at Crehana (HR-tech, LatAm), used by 1300+ organizations and 48K+ users.
+Machine learning engineer with three years' experience shipping ML and GenAI systems that carry business outcomes. I lead development of Crehana's AI copilot and agentic platform (LangChain and LangGraph agents, RAG over a 1.2M+ vector corpus in Qdrant), used by 1300+ organizations and 48K+ users across Latin America. Before that: real-time fraud detection across 35 leading Peruvian financial institutions, and a contract-allocation optimizer that turned two weeks of planning into under 20 minutes.
 
 Now at **UCLA Anderson (MSBA '27)** in Los Angeles, focused on AI product management and product-focused data science.
 
-Most of my production work (LangChain and LangGraph agents, RAG over a 1.2M+ vector corpus in Qdrant) lives in a private company GitLab. The case studies are on my portfolio:
+That production work is proprietary, so the case studies live on my portfolio:
 
 **→ [joaquinramirez.dev](https://joaquinramirez.dev/)** · [LinkedIn](https://www.linkedin.com/in/joaquinramirezg/)
 
