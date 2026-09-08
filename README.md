@@ -2,7 +2,7 @@
 
 Machine learning engineer with three years' experience shipping ML and GenAI systems that carry business outcomes, now an MSBA candidate at **UCLA Anderson ('27)** in Los Angeles, focused on AI product management and product-focused data science.
 
-Most recently I led development of Crehana's AI copilot and agentic platform (LangChain and LangGraph agents, RAG over a 1.2M+ vector corpus in Qdrant), used by 1300+ organizations and 48K+ users across Latin America. Before that: real-time fraud detection across 35 leading Peruvian financial institutions, and a contract-allocation optimizer that turned two weeks of planning into under 20 minutes.
+Most recently I led development of Crehana's AI copilot and agentic platform (LangChain and LangGraph agents, RAG over a 1.2M+ vector corpus in Qdrant), used by 1300+ organizations and 48K+ users across Latin America. Before that, work that had nothing to do with LLMs: real-time anomaly detection across 35 leading Peruvian financial institutions, a combinatorial contract-allocation optimizer that turned two weeks of planning into under 20 minutes, and sales forecasting for a multinational retailer.
 
 That production work is proprietary, so the case studies live on my portfolio:
 
