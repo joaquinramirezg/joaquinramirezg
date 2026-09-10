@@ -9,3 +9,5 @@ That work is proprietary, so the case studies live on my portfolio:
 **→ [joaquinramirez.dev](https://joaquinramirez.dev/)** · [LinkedIn](https://www.linkedin.com/in/joaquinramirezg/)
 
 Public here: [GENIE](https://github.com/joaquinramirezg/genie-llm-chatbot), my undergraduate thesis on LoRA fine-tuning Falcon-7B for a Spanish-language university-regulations chatbot, and [safe docs](https://github.com/joaquinramirezg/safe-docs), a college platform where opening a shared document requires a live face check.
+
+The rest are things I built to understand how they work, not to ship: a [MIPS processor in Verilog](https://github.com/joaquinramirezg/mips-processor-verilog) assembled from CMOS gates up to a multicycle datapath, a [CPU ray tracer](https://github.com/joaquinramirezg/ray-tracing) written without a graphics API, and a [graph library](https://github.com/joaquinramirezg/graph-algorithms-cpp) whose shortest-path algorithms route over a real airport network.
