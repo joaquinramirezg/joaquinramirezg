@@ -8,4 +8,4 @@ That work is proprietary, so the case studies live on my portfolio:
 
 **→ [joaquinramirez.dev](https://joaquinramirez.dev/)** · [LinkedIn](https://www.linkedin.com/in/joaquinramirezg/)
 
-Public here: [GENIE](https://github.com/joaquinramirezg/genie-llm-chatbot), my undergraduate thesis on LoRA fine-tuning Falcon-7B for a Spanish-language university-regulations chatbot, and [safe docs](https://github.com/joaquinramirezg/face-recognition), a college platform where opening a shared document requires a live face check.
+Public here: [GENIE](https://github.com/joaquinramirezg/genie-llm-chatbot), my undergraduate thesis on LoRA fine-tuning Falcon-7B for a Spanish-language university-regulations chatbot, and [safe docs](https://github.com/joaquinramirezg/safe-docs), a college platform where opening a shared document requires a live face check.
